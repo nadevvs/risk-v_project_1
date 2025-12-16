@@ -1,4 +1,4 @@
-## Program Control Flow
+## Map
 
 - **main**
   - **input_loop**
